@@ -15,9 +15,9 @@ Investigé los lugares turísticos más populares de Ecuador, clasificándolos e
 
 ## 4. Estructura de Páginas
 Creé las siguientes páginas principales:
-- **Lugares:** Presenta las cuatro regiones de Ecuador con botones que llevan a las ciudades correspondientes.
-- **Ver Vuelos:** Lista agencias de viajes, con ofertas para viajar al pais y con enlaces directos a sus sitios web.
-- **Sobre Nosotros:** Explica el propósito y enfoque de la página web.
+- **Lugares:** Estan las cuatro regiones de Ecuador con botones dentro de imagenes que llevan a las ciudades correspondientes.
+- **Ver Vuelos:** Hay una lista de agencias de viajes, con ofertas para viajar al pais y con enlaces directos a sus sitios web.
+- **Sobre Nosotros:** Aqui se explica el propósito y enfoque de la página web.
 
 ## 5. Creación de Posts
 En cada post, incluí:
@@ -28,13 +28,13 @@ En cada post, incluí:
 Cada post lo classifiqué en su categoría correspondiente.
 Cada ciudad cuenta con botones en sus imágenes que llevan directamente a los posts de los lugares turísticos.
 
-## 6. Agregación de Plugins
+## 6. Creación de Plugins
 Instalé los siguientes plugins para mejorar la funcionalidad del sitio:
 - **Contact Form 7:** Para crear dos formularios de contacto en diferentes páginas.
 - **Polylang:** Para traducir la página a varios idiomas automáticamente.
 - El plugin que utilice tambien para editar facilmente es el **Editor classico**.
 
-## 7. Agregación de Anuncios
+## 7. Creación de Anuncios
 Agregué anuncios a la página. Pero, solo me dejaba 2 opciones de las tantas que hay, **After Paragraph** y **Before Paragraph**, entonces no me quedó otra opcion de dejarlos como quedaban.
 
 ## 8. Publicación en Hosting
